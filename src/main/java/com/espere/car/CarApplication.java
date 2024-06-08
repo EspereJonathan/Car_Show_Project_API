@@ -1,13 +1,14 @@
-package com.espere.car_show;
+package com.espere.car;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CarShowApplication {
+public class CarApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CarShowApplication.class, args);
+		SpringApplication.run(CarApplication.class, args);
+		System.out.println("Hello");
 	}
 
 }

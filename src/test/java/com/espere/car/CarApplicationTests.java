@@ -1,10 +1,10 @@
-package com.espere.car_show;
+package com.espere.car;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CarShowApplicationTests {
+class CarApplicationTests {
 
 	@Test
 	void contextLoads() {
